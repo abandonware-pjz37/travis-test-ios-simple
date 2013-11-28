@@ -1,4 +1,1 @@
-travis-test-ios-simple
-======================
-
-travis-ci.org build simple ios executable
+[![Build Status](https://travis-ci.org/travis-ci-tester/travis-test-ios-simple.png?branch=master)](https://travis-ci.org/travis-ci-tester/travis-test-ios-simple)
