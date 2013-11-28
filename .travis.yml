@@ -8,4 +8,7 @@ install:
     - brew install cmake
 
 script:
-    - cmake --version
+    - mkdir _builds
+    - cd _builds
+    - cmake -GXcode ..
+    - xcodebuild -sdk iphonesimulator -arch i386
